@@ -1,2 +1,4 @@
 .dart_tool
 .packages
+
+lib/js/node_modules
