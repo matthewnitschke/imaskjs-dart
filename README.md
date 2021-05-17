@@ -9,7 +9,7 @@ TBD - not currently on pub
 Include the `imaskjs` assets in your html file:
 ```html
 <script src="packages/imaskjs/imaskjs.js"></script>
-or
+<! –– or ––> 
 <script src="packages/imaskjs/imaskjs.min.js"></script>
 ```
 
