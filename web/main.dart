@@ -1,6 +1,6 @@
 import 'dart:html';
 
-import 'package:imaskjs/imaskjs.dart';
+import 'package:imaskjs/imask.dart';
 
 void main() {
   final input = document.getElementById('input');

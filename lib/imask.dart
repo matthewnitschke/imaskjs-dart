@@ -13,4 +13,6 @@ class IMask {
   external String get value;
 
   external String get unmaskedValue;
+
+  external void destroy();
 }
