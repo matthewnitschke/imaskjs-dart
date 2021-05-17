@@ -1,4 +1,4 @@
-name: imaskjs
+name: imask
 version: 1.0.0
 description: 'dart bindings for imaskjs'
 
