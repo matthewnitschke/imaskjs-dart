@@ -15,6 +15,8 @@ Include the `imaskjs` assets in your html file:
 
 Use the `IMask` class in your codebase
 ```dart
+import 'dart:html';
+import 'package:imask/imask.dart';
 
 void main() {
   final mask = IMask(
