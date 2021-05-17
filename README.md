@@ -2,7 +2,17 @@
 Dart bindings for the [imaskjs library](https://github.com/uNmAnNeR/imaskjs)
 
 # Installation
-TBD - not currently on pub
+Not currently on pub, you can use the following if you're desperate
+
+> Warning: API is still very much alpha, subject to change without correct semver
+
+```yaml
+dependencies:
+  imask:
+    git:
+      url: git@github.com:matthewnitschke/imaskjs-dart.git
+      ref: master
+```
 
 # Usage
 
